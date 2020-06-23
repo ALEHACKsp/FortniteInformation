@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFYSSdAlDDa/UM+19IG3JA/ayGc0iNovXJbdzJJKUzaeM6GjzPfTjDXu0hv38fKNROIUUTHjml4gO79iQMSRvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thoma\\source\\repos\\FortniteInformation\\FortniteInformation\\FortniteInformation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thoma\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

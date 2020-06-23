@@ -1,0 +1,15 @@
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\bin\Debug\netcoreapp3.1\FortniteInformation.exe
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\obj\Debug\netcoreapp3.1\FortniteInformation.csprojAssemblyReference.cache
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\obj\Debug\netcoreapp3.1\FortniteInformation.AssemblyInfoInputs.cache
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\obj\Debug\netcoreapp3.1\FortniteInformation.AssemblyInfo.cs
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\bin\Debug\netcoreapp3.1\FortniteInformation.deps.json
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\bin\Debug\netcoreapp3.1\FortniteInformation.runtimeconfig.json
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\bin\Debug\netcoreapp3.1\FortniteInformation.runtimeconfig.dev.json
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\bin\Debug\netcoreapp3.1\FortniteInformation.dll
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\bin\Debug\netcoreapp3.1\FortniteInformation.pdb
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\obj\Debug\netcoreapp3.1\FortniteInformation.csproj.CoreCompileInputs.cache
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\obj\Debug\netcoreapp3.1\FortniteInformation.csproj.CopyComplete
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\obj\Debug\netcoreapp3.1\FortniteInformation.dll
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\obj\Debug\netcoreapp3.1\FortniteInformation.pdb
+C:\Users\Thoma\source\repos\FortniteInformation\FortniteInformation\obj\Debug\netcoreapp3.1\FortniteInformation.genruntimeconfig.cache
